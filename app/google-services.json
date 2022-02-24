@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703297037992",
+    "project_id": "fir-aandmap",
+    "storage_bucket": "fir-aandmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703297037992:android:7dffea80d6420c7e86049d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseaandmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703297037992-5siegdri7kvs99rbp4inesg9rko2cnss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0WA-C8t4VrvPavShlYGkV3Dofvj0Lfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703297037992-5siegdri7kvs99rbp4inesg9rko2cnss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
